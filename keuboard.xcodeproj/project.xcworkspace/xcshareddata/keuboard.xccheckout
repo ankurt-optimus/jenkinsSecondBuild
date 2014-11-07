@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9297F674-5A5F-4EDB-9704-3BEDBED12079</string>
+	<key>IDESourceControlProjectName</key>
+	<string>keuboard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3B065DDB-AA06-4030-B2D4-3C38CCC89EAE</key>
+		<string>https://github.com/ankurt-optimus/jenkinsSecondBuild.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>keuboard.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3B065DDB-AA06-4030-B2D4-3C38CCC89EAE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ankurt-optimus/jenkinsSecondBuild.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3B065DDB-AA06-4030-B2D4-3C38CCC89EAE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3B065DDB-AA06-4030-B2D4-3C38CCC89EAE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>jenkinsSecondBuild</string>
+		</dict>
+	</array>
+</dict>
+</plist>
